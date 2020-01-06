@@ -72,9 +72,9 @@ background: linear-gradient(to right, #22aa44, #44cc66)
 }
 
 h4.indifferent {
-background: linear-gradient(to right, #22aa44, #44cc66)
+background: linear-gradient(to right, #b0b01c, #dddd22)
 }
 
 h4.dubious {
-background: linear-gradient(to right, #22aa44, #44cc66)
+background: linear-gradient(to right, rgb(158	48 42), #dd4444)
 }
